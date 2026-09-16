@@ -15,7 +15,7 @@
 - 🎓 B.Tech Student passionate about Data Science & AI  
 - 📊 Interested in Machine Learning & Data Analysis  
 - 🚀 Love building real-world projects & solving problems  
-- 🌱 Currently learning Advanced Machine Learning & Statistics  
+- 🌱 Currently learning  Machine Learning & Statistics  
 
 ---
 
@@ -38,7 +38,7 @@ DBMS 🗄️ | Data Structures & Algorithms
 Machine Learning 🤖 | Pandas | NumPy | Matplotlib | Scikit-learn  
 
 **Tools & Technologies:**  
-Git | Linux | MySQL  
+Git | MySQL | Vs Code
 
 ---
 
